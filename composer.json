@@ -1,0 +1,14 @@
+{
+    "name": "adrie/composer-project",
+    "description": "Quest project composer",
+    "authors": [
+        {
+            "name": "Le Pober",
+            "email": "adrien.le.pober@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
